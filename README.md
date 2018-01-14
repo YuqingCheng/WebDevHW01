@@ -1,2 +1,2 @@
 # WebDevHW01
-# This homework contains two nginx config files
+## This homework only contains two nginx config files
